@@ -1,8 +1,13 @@
-###Check out our Vuejs Bootstrap Admin Dashboard Template
+# Basix Admin - Vue JS Bootstrap v4 Admin Dashboard Template #
+
+![alt text](https://jeweltheme.com/wp-content/uploads/2017/11/cover.jpg "Basix Admin - Vuejs Bootstrap Admin Dashboard Template")
+
+
+### Check out our Vuejs Bootstrap Admin Dashboard Template ###
 
 Check out Basix Admin Template Pro [Themeforest Page](https://themeforest.net/item/basix-admin-vuejs-bootstrap-admin-dashboard-template/20838455?ref=Jewel_Theme).
 
-#Basix Admin Dashboard Template
+## Basix Admin Dashboard Template ##
 
 Basix Admin is an Open Source Vuejs Admin Template. Most of all necessary featured are pre developed within the Template. We've added 60+ Widgets and 80+ Components variations. It's not just a admin template, it's all in one to Develop your personal Admin Dashboard.
 
@@ -10,14 +15,13 @@ You can access to 5000+ Icons (Fontawesome, Brandico, Entypo, Fontelico, Glyphic
 
 **NOTE: Please remember to STAR this project and FOLLOW my Github to stay up to date with this template.**
 
-##Demo
+## Demo ##
 
 A fully functional demo is available at [Basix Admin Template](http://vuejsadmin.com)
 
-##What's included
+## What's included ##
 
 Within the ZIP download you will find the following directories and files:
-
 ```
 Basix Admin/
 ├── src/
@@ -31,9 +35,9 @@ Basix Admin/
 ├────── router/
 ├────── store/
 ├────── views/
+```
 
-
-# vue-project
+# vue-project #
 
 > basix-admin - A Vue.js Admin Dashboard Template
 
