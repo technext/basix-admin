@@ -15,7 +15,7 @@ You can access to 5000+ Icons (Fontawesome, Brandico, Entypo, Fontelico, Glyphic
 
 **NOTE: Please remember to STAR this project and FOLLOW my Github to stay up to date with this template.**
 
-## Demo ##
+## [Demo](http://vuejsadmin.com) ##
 
 A fully functional demo is available at [Basix Admin Template](http://vuejsadmin.com)
 
@@ -37,9 +37,6 @@ Basix Admin/
 ├────── views/
 ```
 
-# vue-project #
-
-> basix-admin - A Vue.js Admin Dashboard Template
 
 ## Build Setup
 
