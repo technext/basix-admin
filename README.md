@@ -1,7 +1,5 @@
 # Basix Admin - VueJS Bootstrap v4 Admin Dashboard Template #
 
-![alt text](https://jeweltheme.com/wp-content/uploads/2017/11/cover.jpg "Basix Admin - Vuejs Bootstrap Admin Dashboard Template")
-
 
 ### Check out our Vuejs Bootstrap Admin Dashboard Template ###
 
